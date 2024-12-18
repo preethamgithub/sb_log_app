@@ -9,6 +9,7 @@ import in.ashokit.service.MsgService;
 @RestController
 @RequestMapping("/api")
 @RequestMapping1("/api")
+@RequestMapping2("/api")
 
 public class MsgRestController {
 	
